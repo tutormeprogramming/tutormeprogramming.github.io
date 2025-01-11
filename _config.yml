@@ -21,9 +21,8 @@
 title: Your programming tutor
 email: tutormeprogramming@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Level up your coding skills, one lesson at a time. Let’s make programming easy and fun! 
+  Send me an email for more info and to book a lesson.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: tutormeprogramming.github.io
 url: "https://tutormeprogramming.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,6 +31,7 @@ url: "https://tutormeprogramming.github.io" # the base hostname & protocol for y
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
