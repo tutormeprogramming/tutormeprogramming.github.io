@@ -14,9 +14,9 @@ As a tutor, my goal is to make programming approachable and fun for everyone. Fo
 
 I've taken many students in the past, from all around the world :earth_americas:. I have a flexible schedule that will certainly accomodate your time restrictions. I usually book 1-hour online lessons, and always leave you with some homework so you can practice in-between lessons. I'm usually pretty fast in replying to your emails with any questions regarding the homework -- I also hate those "feeling stuck" moments.
 
-If you want to start your programming journey with `Python`, `P5js`, or `C`, shoot me an email at [tutormeprogramming@gmail.com](mailto:tutormeprogramming@gmail.com) so we can start the conversation!
+If you want to start your programming journey in `Python`, `P5js`, or `C`, shoot me an email at [tutormeprogramming@gmail.com](mailto:tutormeprogramming@gmail.com) so we can start the conversation!
 
-Make sure to checkout my website for some of the projects I've taken on with my students. You could be the next one to implement them! 
+Make sure to check out some of the projects I've taken on with my students, they're in the home page of this website. You could be the next one to implement them! 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
