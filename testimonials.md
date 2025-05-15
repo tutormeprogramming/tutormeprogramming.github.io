@@ -8,9 +8,9 @@ Here’s what some of my amazing students have to say about their experience lea
 
 <br/><br/>
 
-**:portugal: Portuguese, 20s** -- *MSc in business and economics – data Sscience enthusiast*
+**:portugal: Portuguese, 20s** -- *MSc in business and economics – data science enthusiast*
 
-> "After finishing my master’s, I wanted to step up my data science skills to make my CV stand out, and learning Python with Diogo was the perfect way to do it! We started from the very basics and worked all the way up to Numpy and Pandas. Diogo’s teaching style is clear, patient, and incredibly structured -- he made every step of the journey feel like an accomplishment!"
+> "After finishing my master’s, I wanted to step up my data science skills to make my CV stand out, and learning Python with Diogo was the perfect way to do it! We started from the very basics and worked all the way up to Numpy and Pandas. Diogo’s teaching style is clear, patient, and incredibly structured."
 
 <br/><br/>
 
@@ -34,7 +34,7 @@ Here’s what some of my amazing students have to say about their experience lea
 
 **🇺🇸 American, 20s** -- *College python course & beyond*
 
-> "I started learning with Diogo when I was struggling with my college Python course. After finishing the course, I decided to continue learning because I was hooked! We’ve been working together for a few years now. We’ve gone from Python basics to more advanced topics like game development and visualizations using p5.js"
+> "I started learning with Diogo when I was struggling with my college Python course. After finishing the course, I decided to continue learning. We’ve been working together for a few years now."
 
 <br/><br/>
 
